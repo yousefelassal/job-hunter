@@ -32,6 +32,8 @@ export default function Home() {
                     }}
                 >
                     <Welcome />
+                    <Popularjobs />
+                    <Nearbyjobs />
                 </View>
             </ScrollView>
         </SafeAreaView>
