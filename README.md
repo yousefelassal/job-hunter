@@ -5,7 +5,7 @@
   <table>
     <thead>
       <th>Android</th>
-      <th>IOS</th>
+      <th>iOS</th>
     </thead>
     <tbody>
       <tr>
